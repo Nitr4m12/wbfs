@@ -5,7 +5,7 @@ include(FetchContent)
 FetchContent_Declare(
     dclib
     GIT_REPOSITORY https://github.com/Nitr4m12/dclib
-    GIT_TAG 3dde10f98e5471fa2b0cdc0befd8255f21e55e51
+    GIT_TAG c5cca73eef5f4fd9e196d72d957a4655a4d73345
 )
 FetchContent_MakeAvailable(dclib)
 
